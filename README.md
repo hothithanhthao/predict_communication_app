@@ -1,5 +1,6 @@
 
 # REACT Native Documentation
+Some components and views from the app which predicts communication styles from users by recording their voices and analyzing their images
 ## Available Scripts
 
 If Yarn was installed when the project was initialized, then dependencies will have been installed via Yarn, and you should probably use it to run these commands as well. Unlike dependency installation, command running syntax is identical for Yarn and NPM at the time of this writing.
